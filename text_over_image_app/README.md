@@ -1,16 +1,16 @@
-# text_over_image_app
+# Text Over Image
 
-A new Flutter application.
+This is very often used in every application where we have to draw text over an image.
+To tackle this thing Flutter have Stack Widget, It used to arrange widgets on top of a base widget ften an image. The widgets can completely or partially overlap the base widget.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Medium Blog:
+- [Text Over Image](https://medium.com/flutterworld/flutter-text-over-image-bb045a129bae)
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/output.png" height="400" alt="Screenshot"/> 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Youtube Tutorial:
+
+[![Introduction to Flutter](https://i.imgur.com/sa1j4pk.png)](https://www.youtube.com/watch?v=DfAsXfkbLLk "Little red riding hood - Click to Watch!")
