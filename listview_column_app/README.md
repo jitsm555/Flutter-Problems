@@ -5,7 +5,7 @@ A lot of flutter programmer while deciding the above topic will get confused, as
 
 
 # Medium Blog:
-- [Text Over Image](https://medium.com/flutterworld/flutter-problem-listview-vs-column-singlechildscrollview-43fdde0fa355)
+- [Listview Vs Column + SingleChildScrollView](https://medium.com/flutterworld/flutter-problem-listview-vs-column-singlechildscrollview-43fdde0fa355)
 
 <img src="assets/column.png" height="400" alt="Screenshot"/> 
 <img src="assets/listview.png" height="400" alt="Screenshot"/> 
