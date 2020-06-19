@@ -1,16 +1,19 @@
-# listviewcolumnapp
+# Listview Vs Column + SingleChildScrollView
 
-A new Flutter application.
+A lot of flutter programmer while deciding the above topic will get confused, as they perform most of the things similar. So we would suggest you to go through video and blogs which links are given below. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Medium Blog:
+- [Listview Vs Column + SingleChildScrollView](https://medium.com/flutterworld/flutter-problem-listview-vs-column-singlechildscrollview-43fdde0fa355)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="assets/column.png" height="400" alt="Screenshot"/> 
+<img src="assets/listview.png" height="400" alt="Screenshot"/> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+# Youtube Tutorial:
+
+[![Introduction to Flutter](https://i.imgur.com/zejNJD8.png)](https://www.youtube.com/watch?v=eTZeZZOAj2E "Little red riding hood - Click to Watch!")
+
+

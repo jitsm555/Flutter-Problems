@@ -13,4 +13,4 @@ To tackle this thing Flutter have Stack Widget, It used to arrange widgets on to
 
 # Youtube Tutorial:
 
-[![Introduction to Flutter](https://i.imgur.com/sa1j4pk.png)](https://www.youtube.com/watch?v=DfAsXfkbLLk "Little red riding hood - Click to Watch!")
+[![Introduction to Flutter](https://i.imgur.com/o0SIcVl.png)](https://www.youtube.com/watch?v=DfAsXfkbLLk "Little red riding hood - Click to Watch!")
