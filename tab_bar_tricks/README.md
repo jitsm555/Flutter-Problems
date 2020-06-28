@@ -4,9 +4,8 @@ There are many articles available but all talks about creating TabBar which I th
 
 
 # Medium Blog:
-- [Text Over Image](https://medium.com/flutterworld/flutter-tabbar-and-tricks-4f36e06025a4)
+- [Tab Bar](https://medium.com/flutterworld/flutter-tabbar-and-tricks-4f36e06025a4)
 
-<img src="assets/output.png" height="400" alt="Screenshot"/> 
 
 
 
